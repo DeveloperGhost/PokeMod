@@ -1,0 +1,6 @@
+"pokemod"
+{
+	"base"		"sandbox"
+	"title" 	"PokeMod"
+	"menusystem"	"1"
+}
